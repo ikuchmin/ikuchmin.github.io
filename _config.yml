@@ -14,27 +14,27 @@
 
 
 
-## => Site Settings
+## => Base Settings
 ##############################
 text_color_theme: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-url: # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: # does not include hostname
-title: Someone's blog
+url: https://blog.udya.ru # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl: / # does not include hostname
+title: Udya's Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  Someone's Blog
+  Udya's Blog
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, "en" (default, English), "zh"(简体中文), "zh-Hans"(简体中文), "zh-Hant"(繁體中文)
+lang: "ru" # the language of your site, "en" (default, English), "zh"(简体中文), "zh-Hans"(简体中文), "zh-Hant"(繁體中文)
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  name: Someone
-  email: someone@somemail.com # your Email address e.g. someone@site.com
+  name: Udya
+  email: udya@udya.ru # your Email address e.g. someone@site.com
   facebook: # your Facebook username
   twitter: # your Twitter username
   github: # your GitHub username
