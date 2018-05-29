@@ -1,6 +1,7 @@
 ---
 layout: article
 title: CUBA.platform приложение на JS. PoC
+tags: CUBA.platform js javascript nashorn 
 mathjax: false
 ---
 
